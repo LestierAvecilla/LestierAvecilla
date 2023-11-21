@@ -9,5 +9,5 @@ I'm Lestier Avecilla, and I'm from Mexico. Currently, I am exploring web develop
 
 ### 📫 Connect With Me:
 
-- [LinkedIn] (https://www.linkedin.com/in/lestier-avecilla-alfaro-0b3a77159/)
+- [LinkedIn](https://www.linkedin.com/in/lestier-avecilla-alfaro-0b3a77159/)
 
